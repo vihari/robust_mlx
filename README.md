@@ -1,4 +1,4 @@
-# Robust Learning from Explanations
+# Use Perturbations when Learning from Explanations
 
 Code accompanying submission titled "Use Perturbations when Learning from Explanations" to NeuriIPS 2023. 
 
