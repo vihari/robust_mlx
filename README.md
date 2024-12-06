@@ -27,6 +27,8 @@ Hyperparameter searches and best hyperoparameters are documented in `src/configs
 - We have one synthetic dataset (decoy-MNIST) and two real dataset (ISIC and Plant phenotyping).
 - The default experiment settings for each dataset are in `src/configs/dataset_defaults.py`
 
+**The dataset splits that we used in the paper can be found at this [link](https://1drv.ms/f/c/361ed53576f381ed/Ep8nnnUiFvhLjyD3PcquNy8BkjqJ2Ej1ZmnA4WPJTZrZxA?e=vzHzg7)**. 
+
 
 ### Algorithms
 
@@ -48,3 +50,19 @@ Hyperparameter searches and best hyperoparameters are documented in `src/configs
     python main.py --help
     ```    
 
+# Contact
+Please reach out to Vihari Piratla (viharipiratla [at] gmail) if you have any questions.
+
+# Cite
+If you found our code/dataset/paper useful, please cite using the following bibtex entry.
+
+```
+@inproceedings{
+    heo2023use,
+    title={Use perturbations when learning from explanations},
+    author={Juyeon Heo and Vihari Piratla and Matthew Robert Wicker and Adrian Weller},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+    year={2023},
+    url={https://openreview.net/forum?id=guyhQMSp2F}
+}
+```
