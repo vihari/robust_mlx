@@ -1,6 +1,6 @@
 # Use Perturbations when Learning from Explanations
 
-Code accompanying submission titled "Use Perturbations when Learning from Explanations" to NeuriIPS 2023. 
+Code accompanying submission titled "Use Perturbations when Learning from Explanations" to NeurIPS 2023. 
 
 Algorithm implementations can be found in `src/module` and dataset implementations in `src/datasets`.   
 Hyperparameter searches and best hyperoparameters are documented in `src/configs/expts.py`.
